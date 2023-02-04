@@ -1,7 +1,7 @@
 ## @Welcome to my Github account
 
 - 👋 Hi, I’m Dishant Atkan(@dishu987)
-- ✨ Portfolio: link(https://dishant-kumar-portfolio.herokuapp.com/)
+- ✨ Portfolio: link()
 - 👀 I’m interested in Exlopring new things daily.
 - 🌱 I’m currently learning DSA and ML.
 - 💞️ I’m 3rd year btech(EE) student at IIT-ROPAR.
